@@ -1,9 +1,10 @@
 
+import { Template } from './../components/template/template';
 
 export default function Home() {
   return (
     <>
-      <p>Home</p>
+      <Template />
     </>
   )
 }
